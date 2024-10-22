@@ -1,0 +1,156 @@
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.exe
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.deps.json
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.runtimeconfig.json
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.pdb
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmDangNhap.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.Properties.Resources.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.GenerateResource.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfoInputs.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfo.cs
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.CoreCompileInputs.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\refint\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.pdb
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.genruntimeconfig.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\ref\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmMain.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmMainReturn.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDoiMatKhau.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDangKy.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.AssemblyReference.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.Up2Date
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmKhachThueCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmLoaiCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmQuenMatKhau.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThemMoiKhachHang.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThue.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmXuLyCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.exe
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.deps.json
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.runtimeconfig.json
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.pdb
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.AssemblyReference.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDangKy.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDoiMatKhau.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmLoaiCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmMainReturn.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmQuenMatKhau.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmDangNhap.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmMain.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.Properties.Resources.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.GenerateResource.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfoInputs.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfo.cs
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.CoreCompileInputs.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.Up2Date
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\refint\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.pdb
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.genruntimeconfig.cache
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\ref\QLCanHo.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDichVu.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\ChildForm\frmDichVu.cs
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmChotDienNuoc.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThanhToan.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThueCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThongTin.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmUpdateDienNuoc.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmUpdateCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmHopDongThue.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmLSHDThueCanHo.resources
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Word.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Vbe.Interop.dll
+D:\D1\Năm 2\HK II\Lập trình hướng đối tượng\Lập trình hướng đối tượng\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\office.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.exe
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\ChildForm\frmDichVu.cs
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.deps.json
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.runtimeconfig.json
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\QLCanHo.pdb
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Word.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\Microsoft.Vbe.Interop.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\bin\Debug\net8.0-windows\office.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.AssemblyReference.cache
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmCanHo.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmChotDienNuoc.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDangKy.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmDangNhap.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDichVu.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmDoiMatKhau.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmHopDongThue.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmLoaiCanHo.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmLSHDThueCanHo.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmMainReturn.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmQuenMatKhau.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThanhToan.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThongTin.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmThueCanHo.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmUpdateCanHo.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.ChildForm.frmUpdateDienNuoc.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.frmMain.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.Properties.Resources.resources
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.GenerateResource.cache
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfoInputs.cache
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.AssemblyInfo.cs
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.CoreCompileInputs.cache
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.csproj.Up2Date
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\refint\QLCanHo.dll
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.pdb
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\QLCanHo.genruntimeconfig.cache
+D:\1. Hệ thống Thông tin Quản Lý\HK2 Năm 2023-2024\Lap trinh huong doi tuong\QLCanHo\QLCanHo\QLCanHo\obj\Debug\net8.0-windows\ref\QLCanHo.dll
